@@ -7089,7 +7089,8 @@ button:focus, button:active {
   font-size: 1.6rem;
   line-height: 2.8rem;
   list-style: inside;
-  color: #5F6471; }
+  color: #5F6471;
+  margin-bottom: 1rem; }
 .lab-article-text-secondary a {
   color: #F9D071;
   text-decoration: underline; }
