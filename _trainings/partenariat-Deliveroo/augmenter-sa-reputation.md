@@ -1,5 +1,5 @@
 ---
-layout: training_page
+layout: trainings_deliveroo
 type: training_page
 permalink: "/trainings/deliveroo/augmenter-sa-reputation"
 absolute_link: "http://learn.byseven.co/trainings/deliveroo/augmenter-sa-reputation"
@@ -8,8 +8,8 @@ quote: "'Le personal branding, c’est ce que les gens disent de vous quand vous
 duration: "2 demi-journées de 3 heures  + 1 accompagnement individuel"
 location: "Paris"
 price: "630€ HT (- 100 € de remise pour les partenaires Deliveroo)"
-image: "/assets/img/trainings/deliveroo3.jpg"
-image_twitter: "/assets/img/trainings/deliveroo3.jpg"
+image: "/assets/img/trainings/dev2.png"
+image_twitter: "/assets/img/trainings/dev2.png"
 order: 1
 category: "DELIVEROO"
 category_colour: "#5FB9B2"

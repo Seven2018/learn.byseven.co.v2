@@ -1,22 +1,21 @@
 ---
-layout: trainings_deliveroo
+layout: training_page
 type: training_page
-permalink: "/trainings/deliveroo/optimiser-ses-operations"
-absolute_link: "http://learn.byseven.co/trainings/deliveroo/optimiser-ses-operations"
-title: "Optimiser ses opérations et disponibilités pour améliorer sa note"
-quote: "'On ne voit jamais ce qu’on a fait, toujours ce qu’il reste à faire.'– Marie Curie"
-duration: "2 demi-journées de 3 heures  + 1 accompagnement individuel"
-location: "Paris"
-price: "630€ HT (- 100 € de remise pour les partenaires Deliveroo)"
-image: "/assets/img/trainings/dev1.png"
-image_twitter: "/assets/img/trainings/dev1.png"
+permalink: "/trainings/communication/communication-non-violente"
+absolute_link: "http://learn.byseven.co/trainings/communication/communication-non-violente"
+title: "S’exprimer avec bienveillance grâce à la communication non violente"
+quote: "“Ce sont le langage et les interactions qui renforcent notre aptitude à donner avec bienveillance et à inspirer aux autres le désir d'en faire autant.” - Marshall B. Rosenberg"
+duration: "1 demi-journées de 4 heures"
+location: "Paris ou en ligne"
+price: "210€ HT"
+image: "/assets/img/trainings/comm.jpg"
+image_twitter: "/assets/img/trainings/comm.jpg"
 order: 1
-category: "DELIVEROO"
-category_colour: "#5FB9B2"
-created_at: "10 Juin 2021"
+category: "COMMUNICATION"
+category_colour: "#C1C383"
+created_at: "7 Juillet 2021"
 teaser: ""
 custom_head: true
-custom_link: 'https://airtable.com/shrRH5Wa6GBgknacH'
 lang: fr
 ---
 
@@ -40,11 +39,10 @@ lang: fr
         </div>
         <p class="training-page-main-banner-left-quote"><em>{{page.quote}}</em></p>
       </div>
-      <p class="training-page-main-banner-left-description">Sur la base de la réalité de leur organisation opérationnelle les participants construiront leur propre matrice d’Eisenhower et s’approprieront les 7 lois du temps pour optimiser leur organisation en cuisine, réussir leurs livraisons et améliorer leur note en ligne.
-      <br><br>
-     Les participants travailleront sur les notions d’urgence et d’importance. Ils prendront ensuite des actions correctrices concrètes pour se focaliser sur leurs tâches à haute valeur ajoutée et devenir plus intentionnel dans leur travail.
-      <br><br>
-      <strong>Population :</strong> Cette formation s’adresse à tous les restaurateurs et équipes siège en charge de gérer les opérations en cuisine et la bonne production des commandes passées.
+      <p class="training-page-main-banner-left-description">Un cadre de communication bienveillant est une source d’épanouissement et de bien-être quotidien dans les environnements complexes.  Dans certaines situations, nos propos épeuvent heurter ou blesser les sentiments de nos interlocuteurs, malgré nos meilleures intentions. Les raisons : nos jugements culturels, nos projections, et nos croyances qui orientent notre vision. C’est pourquoi, travailler sa communication nous semble essentiel. Et pour ce faire, nous nous appuyons sur la pratique de “la communication non violente”, une méthodologie conçue par Marshall B. Rosenberg.
+      <br><br>Modérer son langage selon son émetteur, apprendre à exprimer ses pensées le plus fidèlement possible et adopter une position empathique, telles sont les clés pour amener des interactions  plus efficaces et dynamiques et in fine adopter une communication non violente.
+      <br><br>Au cours de cette formation, les participants travailleront sur l’identification des langages violents et les situations de tension afin d’établir des échanges apaisés.
+      <br><br><span>Population :</span> Cette formation s’adresse à tous les collaborateurs qui doivent faire un feed-back ou qui souhaite améliorer leurs échanges parfois complexes et maladroits dans leurs relations de travail.
       </p>
     </div>
     <div class="training-page-main-banner-right">
@@ -66,7 +64,7 @@ lang: fr
         <p>LIEU & FORMAT</p>
         <p>{{page.location}}</p>
         <p>Groupes de 6 à 9 personnes</p>
-        <p>Paris ou Online</p>
+        <p>Online</p>
     </div>
   </div>
   <div class="training-pages-infos-price">
@@ -83,42 +81,46 @@ lang: fr
     <p>En préparation à l’action de formation du contenu théorique vidéo et les lectures possibles seront partagées aux participants pour assurer un socle minimal commun. Des échanges potentiels avec les formateurs sont à prévoir pour évaluer le contexte et l'expérience des participants.</p>
     <h4 style="text-decoration-color: {{page.category_colour}};">Programme de la formation</h4>
     <h5 style="color: {{page.category_colour}};">1 | SESSION 1</h5>
-    <h6>A.MAÎTRISER L’ALGORITHME ET GÉRER SES PRIORITÉS</h6>
+    <h6>1. DÉCOUVERTE DES 4 POINT OSBD:</h6>
     <ul>
-      <li>Le Cercle vertueux de l'algorithme</li>
-      <li>Exemple de bonnes pratiques pour faciliter le travail en cuisiner et éviter les rejets de commande</li>
-      <li>Définir les opérations prioritaires et les actions à mener</li>
-      <li>Identifier les opérations récurrentes urgentes et les anticiper</li>
-      <li>Optimiser les opérations essentielles</li>
+      <li>Observation d’une situation de travail  sans jugement avec les 5 sens</li>
+      <li>Identification des sentiments exprimés par un collaborateur </li>
+      <li>Expression de son besoin sans utiliser de stratégie</li>
+      <li>Émission de la demande avec bienveillance</li>
     </ul>
-    <h6>B.ÊTRE EFFICIENT AVEC LES 7 LOIS DU TEMPS</h6>
+    <h6>2. PRATIQUE DE L'AUTO-EMPATHIE LORS DE SIMULATIONS</h6>
     <ul>
-      <li>Organiser son travail avec la loi de Carlson</li>
-      <li>Anticiper avec la loi de Murphy</li>
-      <li>Rythmer ses actions avec la loi de Laborit et la Loi de Fraisse</li>
-      <li>Gérer son temps avec la loi de Parkinson</li>
-      <li>Être efficace avec le principe de Lakein</li>
-      <li>S'organiser avec la loi de Pareto</li>
+      <li>Classement de  produits  du plus au moins prioritaire Analyse de la situation pour déterminer son besoin</li>
+      <li>Compréhension de ses sentiments</li>
+      <li>Formulation de son besoin par l’observation</li>
     </ul>
-    <h5 style="color: {{page.category_colour}};">2 | SESSION 2</h5>
-    <h6>C.AMÉLIORER SA NOTE SUR UNE PLATEFORME DIGITALE</h6>
+    <h6>2. PRACTIQUE DE L'EXPRESSION AUTHENTIQUE PAR LES JEUX DE RÔLES</h6>
     <ul>
-      <li>Atelier de travail collectif : Améliorer sa gestion du temps lors de la réception de commande en livraison  pour assurer la qualité des commandes click & collect et en salle</li>
-      <li>Atelier de travail collectif : Organiser ses opérations pour assurer une fluidité dans le service de vente en livraison et de click & collect</li>
+      <li>Justification de son besoin</li>
+      <li>Expression de son sentiment</li>
+      <li>Explication de son ressenti par l’observation d’une situation</li>
+    </ul>
+    <h6>2. PRACTIQUE DE L'ÉCOUTE EMPATHIQUE LORS DE SIMULATIONS</h6>
+    <ul>
+      <li>Réception de la demande d’un collaborateur sans jugement</li>
+      <li>Compréhension de son besoin par la reformulation</li>
+      <li>Identification de son sentiment par le questionnement</li>
+      <li>Accueille de son observation avec une proposition de solutions</li>
     </ul>
   </div>
   <div class="training-page-main-description-right etre_inspiré_et_inspirant" >
     <div>
       <h4 style="text-decoration-color: {{page.category_colour}};">Objectifs de la formation</h4>
       <p>
-      - Réorganiser ses opérations pour réussir la réouverture du restaurant tout en assurant un service de livraison rapide<br>
-      - Développer et améliorer son service client à distance pour améliorer sa note<br>
+        - Identifier les communication violentes dans les échanges quotidiens<br>
+        - Identifier les communication violentes dans les échanges quotidiens<br>
+        - Développer l’auto-empathie<br>
+        - Désamorcer les situations de tension lors d’un feedback donné et reçu  avec un collaborateur<br>
+        - Appliquer la communication non violente dans ses interactions quotidiennes<br>
       </p>
       <h4 style="text-decoration-color: {{page.category_colour}};">Méthodes pédagogiques</h4>
       <p>
-       Des formateurs expérimentés et des sessions rythmées, alliant le meilleur du présentiel et du digital, pour s'assurer de la transmission des contenus et de leur mise en application opérationnelle.
-      <br>Des mises en situations et retours d'expériences pour s'approprier les concepts.
-      <br>Des outils pragmatiques et ludiques accessibles depuis notre espace Lab pour continuer à apprendre après la formation.
+       Des formateurs expérimentés et des sessions rythmées, pour s'assurer de la transmission des contenus et de leur mise en application opérationnelle. De la pratique et des mises en situations pour s’approprier le concepts.
       </p>
       <h4 style="text-decoration-color: {{page.category_colour}};">À propos</h4>
       <div class="training-page-faq-element">
@@ -186,6 +188,7 @@ lang: fr
       <div class="training-additional-info">
         <p>Màj le 01/01/2021</p>
       </div>
+    </div>
     </div>
   </div>
 </div>

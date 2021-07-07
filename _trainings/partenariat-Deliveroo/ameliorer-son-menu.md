@@ -8,8 +8,8 @@ quote: "Les meilleures techniques et bonnes pratiques pour concevoir des menus i
 duration: "2 demi-journées de 3 heures  + 1 accompagnement individuel"
 location: "Paris"
 price: "630€ HT (- 100 € de remise pour les partenaires Deliveroo)"
-image: "/assets/img/trainings/deliveroo1.jpg"
-image_twitter: "/assets/img/trainings/deliveroo1.jpg"
+image: "/assets/img/trainings/dev3.png"
+image_twitter: "/assets/img/trainings/dev3.png"
 order: 1
 category: "DELIVEROO"
 category_colour: "#5FB9B2"
