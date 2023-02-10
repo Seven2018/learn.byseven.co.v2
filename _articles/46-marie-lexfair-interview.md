@@ -69,18 +69,20 @@ lang: fr
     </div>
   </div>
   <div class="interview">
+    <div class="lab-interview-text">
+        <h3 style='color: {{page.theme_colour}};'>La Posture Notariale : retour sur un parcours de formation Seven</h3>
+    </div>
     <div class="interview-image">
       <img src="{{page.image}}" alt="{{page.image_alt}}" class='interview-photo'>
     </div>
     <div class="lab-interview-text">
       <div class="lab-interview-text-primary">
-        <h3 style='color: {{page.theme_colour}};'>La Posture Notariale : retour sur un parcours de formation Seven</h3>
         <p class='italic'>Vouloir se perfectionner dans l’accompagnement client est une démarche d’amélioration continue que nous encouragerons toujours. Avec les nouvelles procédures qui se créent, les usages qui se modifient et les attentes de la population qui évoluent, il est toujours pertinent de renforcer sa connaissance client pour lui proposer des biens et services sur mesure. Que ce soit en 2019 ou en 2022, nous avons constaté chez les collaborateurs de LEXFAIR NOTAIRES, la même envie de se perfectionner. Cette étude notariale parisienne, qui est d’ailleurs l’une des plus anciennes, écoute, guide et conseille chacun dans ses projets (de la rédaction des actes courants au montage d’opérations complexes) quelle que soit la nature de ses biens et son secteur d’activité (immobiliers de bureaux, immobilier commercial, financement immobilier et droit bancaire, santé, énergies renouvelables, hôtellerie, logistique, vignobles). Attentifs aux spécificités de leurs clients et désireux de trouver un partenaire de formation, capable d’approfondir des outils et de lier les concepts avec le réel, c’est naturellement qu’ils ont lancé avec Seven la formation “La Posture Notariale” en 2019 et 2022. L’une des collaboratrices nous a partagé l’impact de ces formations dans son quotidien et tout ce qu’elle avait pu appliquer immédiatement. Nous vous faisons part de ces retours ici.</p>
         <div class="lab-interview-text-separator" style='border: solid 2px {{page.theme_colour}};'></div>
       </div>
       <div class="lab-interview-text-secondary">
         <h5>Une prise de recul nécessaire pour observer les résultats des apprentissages</h5>
-        <p>Fin 2022, nous avons eu la chance d’échanger avec une collaboratrice de <a href="https://www.lexfair.fr">LEXFAIR NOTAIRES</a>, que l’on nommera pour cet article, Laure. Elle nous indiquait que la formation Seven fut particulièrement bénéfique pour elle. <span class='italic'>“Tous les outils m’ont paru très concrets. J’étais capable de comprendre leur intérêt, de faire le lien entre les concepts managériaux et mon quotidien, mais aussi de croiser les outils de séance en séance, ce qui me permettait d’avoir une vision globale“</span> indiquait-elle. 
+        <p>Fin 2022, nous avons eu la chance d’échanger avec une collaboratrice de <a href="https://www.lexfair.fr" target="_blank">LEXFAIR NOTAIRES</a>, que l’on nommera pour cet article, Laure. Elle nous indiquait que la formation Seven fut particulièrement bénéfique pour elle. <span class='italic'>“Tous les outils m’ont paru très concrets. J’étais capable de comprendre leur intérêt, de faire le lien entre les concepts managériaux et mon quotidien, mais aussi de croiser les outils de séance en séance, ce qui me permettait d’avoir une vision globale“</span> indiquait-elle. 
         Appliquer les enseignements transmis en formation, demande un effort pour le participant, qui doit prendre de la hauteur par rapport à ses habitudes, à ses expériences passées et en cours, mais aussi accepter de faire évoluer les procédés. Il peut falloir du temps à un participant pour que ce qu’il vient d’apprendre mûrisse dans son esprit. Chacun a son rythme d’apprentissage et il faut le respecter. C’est parce que Laure avait atteint en 2022 une maturité sur les sujets étudiés en formation et était en mesure de prendre du recul par rapport à son quotidien, que les sessions Seven lui ont considérablement apportées.
         </p>
       </div>
