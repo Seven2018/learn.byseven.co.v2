@@ -160,7 +160,7 @@ lang: fr
           </div>
         </a>
         <div class="training-page-faq-answer collapse" id="collapse3">
-          <p>Cliquez sur le bouton à droite “Contactez-nous” et on revient vers vous rapidement !</p>
+          <p>Cliquez sur le bouton à droite “Contactez-nous” et nous vous communiquerons les prochaines dates pour vous inscrire à cet atelier</p>
         </div>
       </div>
       <div class="training-page-faq-element">
