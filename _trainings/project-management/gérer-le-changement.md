@@ -171,7 +171,7 @@ lang: fr
         </div>
       </div>
       <div class="training-additional-info">
-        <p>Màj le 01/01/2022</p>
+        <p>Màj le 01/01/2023</p>
       </div>
     </div>
   </div>
