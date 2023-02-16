@@ -1152,13 +1152,14 @@
   img {
   float: left;
   width: 100%;
-  padding-top: 9px;
+  padding-top: 15px;
   padding-right: 0px;
   padding-bottom: 15px;
+  //background-color: #00b3ee;
   @include from-medium {
-    width: 40%;
-    padding-right: 15px;
-    padding-bottom: 0px;
+    width: 60%;
+    padding-right: 35px;
+    padding-bottom: 10px;
   }
 
   }
@@ -1312,7 +1313,10 @@
   }
 
   a {
-    color: #F9D071;
+    color: #F9D071;italic {
+    font-size: 1.6rem;
+    font-family: 'Monserrat Italic';
+  }
     text-decoration: underline;
   }
 
@@ -1322,7 +1326,7 @@
 }
 
 .italic {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-family: 'Monserrat Italic';
 }
 
