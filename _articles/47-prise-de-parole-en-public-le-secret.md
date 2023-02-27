@@ -10,7 +10,7 @@ title: "Prise de parole en public, le secret : travailler ses débuts "
 image: "/assets/img/articles/prise-de-parole-en-public.jpg"
 image_twitter: "/assets/img/articles/prise-de-parole-en-public.jpg"
 image_alt: "Prise de parole en public, le secret : travailler ses débuts"
-order: 45
+order: 47
 theme: "RÉFLEXION"
 theme_colour: "#5AC3C8"
 tag1: "Ingénierie pédagogique"
