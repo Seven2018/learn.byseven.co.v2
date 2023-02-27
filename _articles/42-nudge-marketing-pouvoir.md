@@ -139,8 +139,7 @@ lang: fr
       <p>Transformer des actions initialement banales en jeu devient de plus en plus courant. Les poubelles sont devenues des sources d’inspiration pour les créateurs des techniques de “Nudge Marketing”. Lassés des déchets laissés sur la voie publique, ils transforment le jet des détritus en partie de plaisir et de jeu. Ainsi, on peut retrouver à Lille une marelle à côté d’une poubelle, au Havre une poubelle transformée en panier de basket, attirant ainsi aussi bien les petits que les grands.</p>
       <div class="d-flex justify-content-between align-items-center"
            style="margin-bottom: 2rem;">
-        <img src='/assets/img/articles/nudge-marketing-pouvoir2.png' style='width:45%; height: 22rem; object-fit: cover;'>
-        <img src='/assets/img/articles/nudge-marketing-pouvoir3.jpeg' style='width:45%; height: 22rem; object-fit: cover;'>
+        <img src='/assets/img/articles/nudge-marketing-pouvoir3.jpeg' style='width:100%;'>
       </div>
       <p class="italic">Les démarches “Nudge Marketing” ont la capacité d’influencer nos actions, le tout avec notre consentement. Quel pouvoir ! Ces techniques sont particulièrement utiles, car elles servent tant le bien commun que notre propre bien-être. En effet, elles peuvent nous encourager à jeter nos détritus ou mégots de cigarettes aux emplacements prévus (ce qui est autant positif pour nous qui réalisons une bonne action que pour la société qui voit croître la propreté sur les trottoirs), nous faire prendre des escaliers plutôt que des escalators, nous amener à ralentir en voiture à l’approche de passages piétons, nous donner l’envie d’offrir nos anciens livres…
       <br><br>
