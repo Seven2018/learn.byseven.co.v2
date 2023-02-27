@@ -10,7 +10,7 @@ title: "Le pouvoir des émotions"
 image: "/assets/img/articles/pouvoir-emotions-discours.jpg"
 image_twitter: "/assets/img/articles/pouvoir-emotions-discours.jpg"
 image_alt: "Le pouvoir des émotions"
-order: 42
+order: 49
 theme: "RÉFLEXION"
 theme_colour: "#5AC3C8"
 tag1: "Communication"
