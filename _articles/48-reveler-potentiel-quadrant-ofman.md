@@ -12,7 +12,7 @@ image2: "/assets/img/articles/reveler-potentiel-quadrant-ofman-2.png"
 image_twitter: "/assets/img/articles/reveler-potentiel-quadrant-ofman.jpg"
 image_alt: "Révéler son potentiel avec le quadrant d’Ofman"
 image_alt2: "Révéler son potentiel avec le quadrant d’Ofman"
-order: 42
+order: 48
 theme: "RÉFLEXION"
 theme_colour: "#5AC3C8"
 tag1: "Communication"
