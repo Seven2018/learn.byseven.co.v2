@@ -1334,3 +1334,17 @@
   font-family: 'Monserrat Italic';
   font-weight: 900;
 }
+
+.center-content {
+  display: flex;
+  justify-content: center;
+}
+
+.clickable-image {
+  border-radius: 2%;
+  transition: transform .2s;
+}
+
+.clickable-image:hover {
+  transform: scale(1.05);
+}
