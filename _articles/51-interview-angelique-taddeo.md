@@ -67,6 +67,7 @@ lang: fr
           </a>
       </div>
     </div>
+    <img src="{{page.image}}" alt="{{page.image_alt}}">
   </div>
   <div class="interview">
     <div class="lab-interview-text">
