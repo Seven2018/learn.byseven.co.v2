@@ -10,12 +10,12 @@ title: "Discipline matinale : Quelles actions pour optimiser votre productivité
 image: "/assets/img/articles/discipline-matinale.jpg"
 image_twitter: "/assets/img/articles/discipline-matinale.jpg"
 image_alt: "Le pouvoir des émotions"
-order: 49
+order: 50
 theme: "RÉFLEXION"
 theme_colour: "#5AC3C8"
 tag1: "Gestion de Projet"
 tag2: ""
-created_at: "23 Février 2023"
+created_at: "23 Mars 2023"
 teaser: "Parmi nos habitudes du matin, certaines sont positives pour nous et d’autres le sont moins. Comment développer
 des rituels qui nous font du bien et nous aident à optimiser notre productivité de bon matin ? Quelques pré-dispositions
 pour mettre en place une discipline matinale. Libre à vous de choisir celles qui vous correspondent le plus."
