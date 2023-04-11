@@ -7,8 +7,8 @@ facebook_href: "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flearn.
 twitter_href: 'https://twitter.com/intent/tweet?url=http%3A%2F%2Flearn.byseven.co%2Flab%2Farticles%2Fwhy-jacinda-ardern&text=L%E2%80%99application%20du%20Why%20en%20politique%20avec%20Jacinda%20Ardern'
 training_link : ""
 title: "L’application du Why en politique avec Jacinda Ardern"
-image: "/assets/img/articles/why-jacinda-ardern.jpeg"
-image_twitter: "/assets/img/articles/why-jacinda-ardern_twitter.jpg"
+image: "/assets/img/articles/why-jacinda-ardern-2.jpg"
+image_twitter: "/assets/img/articles/why-jacinda-ardern-2.jpg"
 image_alt: "Application du Why Jacinda Ardern"
 order: 4
 theme: "RÉFLEXION"
@@ -68,6 +68,7 @@ lang: fr
       </div>
     </div>
     <img src="{{page.image}}" alt="{{page.image_alt}}" style='object-position: 50% 85%;'>
+    <span class="width-75 mt-0_75rem">Crédit photo : Evan Dennis (unsplash)</span>
   </div>
   <div class="lab-article-text">
     <div class="lab-article-text-primary">

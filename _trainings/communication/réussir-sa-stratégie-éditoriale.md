@@ -145,7 +145,8 @@ lang: fr
           </div>
         </a>
         <div class="training-page-faq-answer collapse" id="collapse2">
-          <p>Formation accessible à tous*, jusqu’à une semaine avant le début de la formation.</p><br><br>
+          <p>Formation accessible à tous*, jusqu’à une semaine avant le début de la formation.</p>
+          <p>Aucun prérequis n'est exigé pour s'inscrire à la formation.</p><br><br>
           <p> * accessible aux publics en situation de handicap</p>
         </div>
       </div>
@@ -184,6 +185,17 @@ lang: fr
         <div class="training-page-faq-answer collapse" id="collapse5">
           <p>On évaluera vos acquis de formation par un cas pratique, une mise en situation ou par un questionnaire.<br>
           On vous remettra un certificat de réalisation en fin de formation.</p>
+        </div>
+      </div>
+      <div class="training-page-faq-element">
+        <div class="training-page-faq-question flex-row-between-centered">
+          <p><strong>Comment se passe mon accueil ?</strong></p>
+          <a href="/livret"
+             target="_blank"
+             class="fs-1_4rem font-weight-700 p-2rem rounded-5px bs-white bs-black-hover smooth-transition"
+             style="background-color: {{page.category_colour}};">
+            Voir le livret d'accueil
+          </a>
         </div>
       </div>
       <div class="training-additional-info">
