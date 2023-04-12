@@ -67,11 +67,11 @@ lang: fr
           </a>
       </div>
     </div>
-    <img src="{{page.image}}" alt="{{page.image_alt}}">
+    <img style="width: 50%" src="{{page.image}}" alt="{{page.image_alt}}">
   </div>
   <div class="interview">
     <div class="lab-interview-text">
-        <h3 style='color: {{page.theme_colour}};'>La Boîte à Outils du Manager Seven avec Ouidou </h3>
+        <h3 style='color: {{page.theme_colour}};'>La Boîte à Outils du Manager Seven avec Ouidou</h3>
     </div>
     <div class="lab-interview-text">
       <div class="lab-interview-text-primary">
