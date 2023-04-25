@@ -72,10 +72,8 @@ lang: fr
   </div>
   <div>
     <div class="lab-article-text">
-        <h3 style='color: {{page.theme_colour}};'>Effet Dunning-Kruger : Susciter une prise de conscience chez les personnes atteintes de sur-confiance</h3>
-    </div>
-    <div class="lab-article-text">
       <div class="lab-article-text-primary">
+        <h3 style='color: {{page.theme_colour}};'>Effet Dunning-Kruger : Susciter une prise de conscience chez les personnes atteintes de sur-confiance</h3>
         <p class="italic">Avez-vous déjà rencontré des personnes qui prétendent tout savoir sur un sujet, mais dont la connaissance est en réalité très partielle ? Cette attitude de sur-confiance peut être agaçante, déstabilisante, voire problématique, notamment lorsque ces personnes occupent des postes à responsabilités. Cette distorsion entre la réalité et leur perception s'appelle l'effet Dunning-Kruger. Les personnes qui en sont atteintes peuvent avoir du mal à remettre en question leur propre compétence, ce qui peut avoir des conséquences négatives sur leur bien-être personnel, leur efficacité professionnelle et leur entourage. Communiquer avec elles est particulièrement difficile, car elles nient leurs lacunes et peuvent retourner la faute contre vous. Il est donc important de sensibiliser les personnes atteintes de sur-confiance, dans le but de les aider à progresser. Dans cet article, nous allons décrypter ce biais et explorer les différentes stratégies pour susciter une prise de conscience chez les personnes sujettes à la sur-confiance.</p>
         <div class="lab-article-text-separator" style='border: solid 2px {{page.theme_colour}};'></div>
       </div>
@@ -84,7 +82,7 @@ lang: fr
         <h6>L’origine de l’effet Dunning-Kruger</h6>
         <p>L'effet Dunning-Kruger tire son origine de l'histoire d'un voleur peu scrupuleux qui croyait se rendre invisible aux yeux des caméras de sécurité en s'enduisant le corps de jus de citron. Cette sur-confiance étonnante a incité deux psychologues américains, aux noms de David Dunning et Justin Kruger, à poursuivre leurs recherches sur la perception des individus vis-à-vis de leurs propres capacités et à comparer la qualification réelle de ces individus avec leur évaluation personnelle.</p>
         <h6>La sur-confiance des moins qualifiés</h6>
-        <p>En 1999, Dunning et Kruger mènent une série d'expériences, y compris des enquêtes à l'université Cornell, et formulent deux postulats. Lorsqu'ils demandent à des étudiants de se positionner sur leur rang, ils constatent que :</p>
+        <p>En 1999, Dunning et Kruger mènent une série d'expériences, y compris des enquêtes à l'université Cornell, et formulent deux postulats. Lorsqu'ils demandent à des étudiants de se positionner sur leur rang, ils constatent<br>que :</p>
         <ol>
           <li>Les plus compétents ont tendance à sous-estimer leur rang.</li>
           <li>Les moins compétents ont tendance à surestimer leur rang.</li>
