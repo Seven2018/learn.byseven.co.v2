@@ -6,12 +6,12 @@ absolute_link: "https://learn.byseven.co/lab/articles/reveler-potentiel-quadrant
 facebook_href: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flearn.byseven.co%2Flab%2Farticles%2Freveler-potentiel-quadrant-ofman&amp;src=sdkpreparse"
 twitter_href: 'https://twitter.com/intent/tweet?url=https%3A%2F%2Flearn.byseven.co%2Flab%2Farticles%2Freveler-potentiel-quadrant-ofman'
 training_link: ""
-title: "Révéler votre potentiel avec le quadrant d’Ofman"
+title: "Révéler son potentiel avec le quadrant d’Ofman"
 image: "/assets/img/articles/reveler-potentiel-quadrant-ofman.png"
 image2: "/assets/img/articles/reveler-potentiel-quadrant-ofman-2.png"
 image_twitter: "/assets/img/articles/reveler-potentiel-quadrant-ofman.jpg"
-image_alt: "Révéler votre potentiel avec le quadrant d’Ofman"
-image_alt2: "Révéler votre potentiel avec le quadrant d’Ofman"
+image_alt: "Révéler son potentiel avec le quadrant d’Ofman"
+image_alt2: "Révéler son potentiel avec le quadrant d’Ofman"
 order: 48
 theme: "RÉFLEXION"
 theme_colour: "#5AC3C8"
@@ -73,7 +73,7 @@ lang: fr
   </div>
   <div class="lab-article-text">
     <div class="lab-article-text-primary">
-      <h3 style='color: {{page.theme_colour}};'>Révéler votre potentiel avec le quadrant d’Ofman</h3>
+      <h3 style='color: {{page.theme_colour}};'>Révéler son potentiel avec le quadrant d’Ofman</h3>
       <p class='italic'>Vous avez souvent les idées qui fusent ? Vous proposez régulièrement des actions nouvelles, originales, innovantes et surprenantes à faire ? Votre entourage dit de vous que vous avez le cerveau en ébullition et apprécie que vous ne soyez jamais à court d’idées ? Alors, l’une de vos plus grandes forces est la créativité. Parce que vous êtes créatif, il est possible que vous vous éparpilliez par moments, que vous cherchiez à mieux cadrer les choses et désiriez stimuler les personnes qui ne sont pas force de proposition pour qu’elles le deviennent. Vos forces, vos faiblesses, vos compétences à développer et vos agacements sont liés. Daniel Ofman, un Néerlandais qui s’est intéressé aux relations des individus dans la sphère professionnelle, l’illustre très bien au travers d’un concept qui a pris son nom d’ailleurs : le quadrant d’Ofman. Cet outil, présenté sous la forme d’un cercle divisé à 4 parties, permet à chacun de faire le point sur soi, sur sa façon de réagir au contact des autres et de se comporter lorsqu’il se retrouve dans des situations qui lui sont inconfortables. En identifiant ce qu’il appelle ses “qualités fondamentales”, ses “pièges”, ses “challenges” et ses “allergies”, Ofman invite chacun à s’interroger sur ce qu’il pourrait faire pour encore mieux se sentir. En même temps que la lecture de cet article, nous vous invitons à réaliser un travail d’introspection, à ne pas vous juger et à garder une vision orientée solutions (chapeau jaune ou lunettes jaunes si on s’appuie sur la théorie d’Edward de Bono). L’objectif : prendre conscience de vote richesse et être en mesure de révéler votre potentiel avec le quadrant d’Ofman.</p>
       <div class="lab-article-text-separator" style='border: solid 2px {{page.theme_colour}};'></div>
     </div>
